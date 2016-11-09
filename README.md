@@ -1,7 +1,7 @@
 AP Computer Science A
 =====================
 
-An AP Computer Science course mostly consisting of beginner and intermediate Java. If you need help with Java try reaching out to me [sometimes I'm free] at iberamen@gmail.com.
+An AP Computer Science course mostly consisting of beginner and intermediate Java.
 
 This course was taken at Florida Virtual School.
 
