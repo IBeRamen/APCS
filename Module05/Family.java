@@ -67,7 +67,7 @@ public class Family {
 		inFile.close();
 		double bbPercent = countBB / (double)size * 100;
 		double ggPercent = countGG / (double)size * 100;
-        double totalGBPercent = countGB + countBG / (double)size * 100;
+        double totalGBPercent = (countGB + countBG) / (double)size * 100;
 
 		System.out.println("Probability of Two Boys: " + bbPercent + "%");
 		System.out.println("Probability of Two Girls: " + ggPercent + "%");
